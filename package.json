@@ -1,0 +1,23 @@
+{
+  "name": "is-empty-object",
+  "version": "1.0.0",
+  "description": "An npm package to check if an object is empty or not. ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanth1462/check-if-object-isEmpty.git"
+  },
+  "keywords": [
+    "emptyobject"
+  ],
+  "author": "Sai Sumanth",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sumanth1462/check-if-object-isEmpty/issues"
+  },
+  "homepage": "https://github.com/sumanth1462/check-if-object-isEmpty#readme"
+}
